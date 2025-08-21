@@ -102,7 +102,7 @@ In the chat history, you'll see two main buttons that you can use to interact wi
 #### 🎥 Demo Video
 Watch the full demonstration of prompting ACR Agent to fix a bug / add a feature:
 
-https://github.com/user-attachments/assets/3835ca8b-5ae2-48b6-8c63-42a3862e4120
+https://github.com/user-attachments/assets/2f54b897-80f5-4396-a5ec-bd7429ba119b
 
 ### Build Failure Troubleshooting
 
@@ -115,7 +115,7 @@ When a test failure event occurs inside your IDE, ACR Plugin will automatically 
 #### 🎥 Demo Video
 Watch the full demonstration of prompting ACR Agent to diagnose a test failure:
 
-https://github.com/user-attachments/assets/59959cde-46d7-4f50-b5c6-10a89c92396b
+https://github.com/user-attachments/assets/36c861f4-0541-475f-a8b0-e99471fa3601
 
 ### Code-Quality Checks
 
@@ -141,7 +141,7 @@ AutoCodeRover Plugin integrates SonarLint to help you detect and fix code-qualit
 #### 🎥 Demo Video
 Watch the full demonstration of prompting ACR Agent to fix SonarLint issues:
 
-https://github.com/user-attachments/assets/b8ba286c-ad01-4ecd-afbb-0ee53431962b
+https://github.com/user-attachments/assets/7306e662-08b9-4030-a9a5-1043fd80c5d5
 
 
 ## After an ACR Agent Run
@@ -183,7 +183,7 @@ After reviewing the Patch, you'll see two buttons:
 #### 🎥 Demo Video
 Watch the full demonstration of ACR Plugin performs Patch Alignment:
 
-https://github.com/user-attachments/assets/6bd7c353-df3b-4af5-8534-b872e23030ea
+https://github.com/user-attachments/assets/41a5ac45-9812-40d2-bce9-3ae7de60bbc3
 
 ### 3. Rating the Patch
 
